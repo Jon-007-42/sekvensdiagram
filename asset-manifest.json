@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sekvensdiagram/static/css/main.5e0b7dd2.css",
+    "main.js": "/sekvensdiagram/static/js/main.a7f19c51.js",
+    "static/js/977.6c16df4f.chunk.js": "/sekvensdiagram/static/js/977.6c16df4f.chunk.js",
+    "static/js/732.749ee099.chunk.js": "/sekvensdiagram/static/js/732.749ee099.chunk.js",
+    "index.html": "/sekvensdiagram/index.html",
+    "main.5e0b7dd2.css.map": "/sekvensdiagram/static/css/main.5e0b7dd2.css.map",
+    "main.a7f19c51.js.map": "/sekvensdiagram/static/js/main.a7f19c51.js.map",
+    "732.749ee099.chunk.js.map": "/sekvensdiagram/static/js/732.749ee099.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e0b7dd2.css",
+    "static/js/main.a7f19c51.js"
+  ]
+}

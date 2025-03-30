@@ -1,0 +1,39 @@
+# Node & Build
+node_modules/
+build/
+dist/
+
+# VS Code & Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Systemfiler
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logfiler og debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Deployment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS-specifikke filer
+*.swp
+*.bak
+*.tmp
+*.log
+
+# Mac metadata
+__MACOSX/
